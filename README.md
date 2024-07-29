@@ -1,6 +1,6 @@
 # 📊 Zomoto Sales and Order Analysis Using SQL
 
-![Zomoto Sales and Order Analysis](https://your-image-link-here.jpg)
+![Zomoto Sales and Order Analysis](https://github.com/Prakashpsk/Zomoto-Sales-and-Order-Analysis-Using-SQL/blob/main/How-to-Benefit-from-Sales-Promotions-on-Zomato.png)
 
 ## Introduction
 
